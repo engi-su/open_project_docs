@@ -6,8 +6,20 @@ Let's start your Open Project journey...
 And we are warning you!
 
 .. toctree:: 
-    :caption: start
+    :caption: OpenProject Description
 
-    start/1
-    start/2
-    start/3
+    OpenProject Description/OpenProject
+    OpenProject Description/Проекты
+    OpenProject Description/Деятельность
+    OpenProject Description/Диаграмма Ганта
+    OpenProject Description/Календари
+    OpenProject Description/Доски
+    OpenProject Description/Бэклоги
+    OpenProject Description/Новости
+    OpenProject Description/Время и затраты
+    OpenProject Description/Совещания
+    OpenProject Description/Profile and settings
+    OpenProject Description/Задачи и доски
+    OpenProject Description/Дорожная карта
+    OpenProject Description/Участники
+    OpenProject Description/Группы пользователей
