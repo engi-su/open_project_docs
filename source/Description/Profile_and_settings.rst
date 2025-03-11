@@ -6,7 +6,7 @@ Profile and settings
 Для начала клинем на фотограию (или значок, если он без фото) своего профиля
 в правом верхнем углу и перейдем в **настройки учетной записи**.
 
-.. image:: /OpenProject_Description/pics/profile.png
+.. image:: /Description/pics/profile.png
 
 В открывшемся окне при желании можно изменить собственную индивидуальную 
 информацию. 
@@ -20,7 +20,7 @@ Profile and settings
 Что  это значит?
 -----------------
 
-.. image:: /OpenProject_Description/pics/administrirovanie.png
+.. image:: /Description/pics/administrirovanie.png
 
 Администратор имеет полномочия настраивать работу программы индивидуально под 
 запросы команды: добавлять активные кнопки, поля, строки, удалять/скрывать 

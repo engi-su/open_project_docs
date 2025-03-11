@@ -4,4 +4,4 @@
 Данный раздел освещает новости проекта. Новости пишутся вручную автором.
 Новости создаются для всех членов команды и отображаются на главной странице.
 
-.. image:: /OpenProject_Description/pics/main_page_news.png
+.. image:: /Description/pics/main_page_news.png

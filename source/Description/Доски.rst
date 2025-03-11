@@ -1,7 +1,7 @@
 Доски
 ++++++
 
-.. image:: /OpenProject_Description/pics/main_page_desk.png
+.. image:: /Description/pics/main_page_desk.png
 
 Данный раздел открывает все существующие или будущие рабочие доски.
 Их полный список будет отображаться слева на панели.

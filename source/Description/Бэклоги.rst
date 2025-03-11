@@ -5,7 +5,7 @@
     с планом проекта и его целями. Простыми словами, это список задач, которые
     расположили по приоритетности и которые команда должна решить. 
 
-.. image:: /OpenProject_Description/pics/main_page_backlog.png
+.. image:: /Description/pics/main_page_backlog.png
 
 .. attention::  Вкладка **Бэклоги** в бесплатной версии не работает!!!
 
