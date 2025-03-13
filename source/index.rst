@@ -12,17 +12,17 @@ And we are warning you!
 
     Description/OpenProject
     Description/Projects
-    Description/Деятельность
-    Description/Диаграмма_Ганта
-    Description/Календари
-    Description/Доски
-    Description/Бэклоги
-    Description/Новости
-    Description/Время_и_затраты
-    Description/Совещания
+    Description/Activity
+    Description/Diagram_Gantt
+    Description/Calendar
+    Description/Boards
+    Description/Backlog
+    Description/News
+    Description/Time_and_coast
+    Description/Conferences
     Description/Profile_and_settings
-    Description/Задачи_и_доски
-    Description/Дорожная карта
-    Description/Участники
-    Description/Группы пользователей
+    Description/Tasks_and_boards
+    Description/Roadmap
+    Description/Participants
+    Description/User_groups
     Description/Wiki
