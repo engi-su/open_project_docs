@@ -26,3 +26,5 @@ And we are warning you!
     Description/Participants
     Description/User_groups
     Description/Wiki
+    Setup_long_task/Long_task_creation
+    
