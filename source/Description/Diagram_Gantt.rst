@@ -1,5 +1,5 @@
-Диаграмма Ганта
-++++++++++++++++
+Diagram_Gantt
++++++++++++++++
 
 .. image:: /Description/pics/main_page_gantt_diagram.png
 

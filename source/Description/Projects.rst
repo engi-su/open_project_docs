@@ -1,4 +1,4 @@
-Проекты
+Projects
 ++++++++
 
 .. image:: /Description/pics/main_page_projects.png

@@ -1,4 +1,4 @@
-Деятельность
+Activity
 +++++++++++++
 
 .. image:: /Description/pics/main_page_activity.png

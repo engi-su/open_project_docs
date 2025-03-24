@@ -1,5 +1,5 @@
-Календари
-+++++++++++
+Calendar
++++++++++
 
 .. image:: /Description/pics/main_page_calendar.png
 

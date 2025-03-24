@@ -1,5 +1,5 @@
-Доски
-++++++
+Boards
++++++++
 
 .. image:: /Description/pics/main_page_desk.png
 
